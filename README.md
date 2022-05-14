@@ -1,4 +1,5 @@
-<a href="#"><img width="auto" height="auto" display="flex" alignItem="center" justifyContent="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></a>
+<p align="center"><a href="#"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></a></p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pasindu Weerarathne</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
