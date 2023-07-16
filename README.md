@@ -20,9 +20,7 @@
   
 - 🎓 University - Sri Lanka Institute of Information Technology(SLIIT)
 
-- 🔬 3rd year 2nd semester undergraduate, Bsc in IT
-
-- ⚡ Fun fact *I play games and go to the GYM very often.*
+- 🔬 4th year 2nd semester undergraduate, Bsc in IT
 
 ## 🚀 Languages and Tools:
 
